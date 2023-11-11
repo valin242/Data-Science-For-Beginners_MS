@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | Improve education process for children in schools | test scores, post-lecutre quizze scores, engagment score, HW score | table | Frequency of correct questions, level of engagment and how that affects test scores |
+| Vaccination | Control vaccination during the pandemic | region/area, # of people vaccinated, # of vaccinations sites, # of vaccinations per day, demographic | large database | which demographic least likely to get vaccinated, how does # of sites affect vacccinations rates |
+| Productivity | Determine work productivity | total hours worked, task completion time, number of tasks, time of day most tasks are completed, age, degree level, years of experience, stress levels | data can be stored in a SQL database as a table | time of day you're most productive, how # of tasks affect the rate you complete the tasks, may help in deciding which are the best hours for you to work, have a max # of tasks per day to complete to not feel overwhelmed |
 
 ## Rubric
 
